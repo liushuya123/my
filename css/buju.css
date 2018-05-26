@@ -11,6 +11,10 @@
     padding-right: 15px;
     float: left;
 }
+.col-lg-12{
+    padding-left: 0px;
+    padding-right: 0px;
+}
 .col-lg-8{
     margin: 0 auto;
 }
